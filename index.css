@@ -3,7 +3,6 @@ body {
   background-color: black;
   font-family: 'Staatliches', cursive;
 }
-
 .countdownContainer {
   position: absolute;
   top: 50%;
@@ -44,11 +43,9 @@ body {
       100%{background-position:0% 82%}
   }
 }
-
 .info {
   font-size: 80px;
 }
-
 #notBirthdayTime {
   color: white;
   position: absolute;
@@ -58,7 +55,6 @@ body {
   text-align: center;
   font-size: 60px;
 }
-
 #birthdayTime {
   display: none;
   height: 100%;
